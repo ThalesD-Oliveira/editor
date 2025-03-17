@@ -1,0 +1,45 @@
+.certificates-father {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  height: 280px;
+  transition: all 0.4s;
+}
+
+.certificate {
+  margin-right: 2rem;
+
+}
+
+.certificates-father img {
+  height:  100%;
+  transition: all 0.4s;
+}
+
+.imagem-texto {
+  margin-right: 3rem;
+}
+
+.imagem-texto:hover {
+  color: var(--link)
+
+}
+.certificates {
+  margin-top: 16px;
+  width: 280px;
+  box-shadow: 3px 3px 3px rgba(0,0,0,0.15);
+  border-radius: 8px;
+}
+
+.certificates:hover {
+cursor: pointer;
+transform: scale(1.04);
+transition: transform 0.3s ease;
+} 
+
+.certificates-text {
+ text-align: center;
+ padding-top: 16px;
+ font-weight: 600;
+ font-size: 15px;
+}

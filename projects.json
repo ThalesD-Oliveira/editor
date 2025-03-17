@@ -1,0 +1,39 @@
+[
+  {
+    "name": "Conheça a HYPIA",
+    "image": "assets/hypia.png",
+    "tags": ["Enquadramento", "OBS Studio", "Video sem cortes"],
+    "link": "https://www.youtube.com/watch?v=LefzyjpTuPY&t=1s"
+  },
+
+  {
+    "name": "Desafio de japonês",
+    "image": "assets/desafio-japones.png",
+    "tags": ["Reels", "Legendas", "Tradução"],
+    "link": "https://www.youtube.com/watch?v=862I-UZN_6s"
+  },
+  {
+    "name": "O Poliglota Brasileiro",
+    "image": "assets/poliglota-brasileiro.png",
+    "tags": ["Vídeo com cortes", "Legendas", "Tradução"],
+    "link": "https://www.youtube.com/watch?v=oZX_d2ZOk0g"
+  },
+  {
+    "name": "Como aprender japonês",
+    "image": "assets/aprender-japones.png",
+    "tags": ["Cortes", "Legendado", "Traduzido"],
+    "link": "https://www.youtube.com/watch?v=osby4vmlh0U"
+  },
+  {
+    "name": "Como Aprender Italiano Rápido",
+    "image": "assets/italiano.png",
+    "tags": ["Cortes", "Legendado", "Traduzido"],
+    "link": "https://youtu.be/JEolh8jeZlI"
+  },
+  {
+    "name": "Japanese people are cute",
+    "image": "assets/japa.png",
+    "tags": ["Cortes", "Legendado", "Traduzido"],
+    "link": "https://www.youtube.com/watch?v=5aqtIGzw-Ss"
+  }
+]
