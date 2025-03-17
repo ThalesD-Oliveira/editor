@@ -21,19 +21,35 @@
   {
     "name": "Como aprender japonês",
     "image": "assets/aprender-japones.png",
-    "tags": ["Cortes", "Legendado", "Traduzido"],
+    "tags": [],
     "link": "https://www.youtube.com/watch?v=osby4vmlh0U"
   },
   {
     "name": "Como Aprender Italiano Rápido",
     "image": "assets/italiano.png",
-    "tags": ["Cortes", "Legendado", "Traduzido"],
+    "tags": [],
     "link": "https://youtu.be/JEolh8jeZlI"
   },
   {
     "name": "Japanese people are cute",
     "image": "assets/japa.png",
-    "tags": ["Cortes", "Legendado", "Traduzido"],
+    "tags": [],
     "link": "https://www.youtube.com/watch?v=5aqtIGzw-Ss"
+  },
+  {
+    "name": "Teaser - Por Que Deixei a Venezuela?",
+    "image": "assets/gabi.png",
+    "tags": ["Teaser", "Legendas", "Tradução"],
+    "link": "https://youtu.be/Y78CHI3uu2A"
+  },{
+    "name": "Teaser - Vídeo em francês",
+    "image": "assets/frances.png",
+    "tags": ["Teaser", "Legendas", "Tradução"],
+    "link": "https://youtu.be/zo79PZWSB0w"
+  },{
+    "name": "Teaser - Duolingo Vale a Pena?",
+    "image": "assets/danilingo.png",
+    "tags": ["Teaser"],
+    "link": "https://youtu.be/hT5PUlfSwvg"
   }
 ]
