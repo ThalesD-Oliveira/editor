@@ -14,14 +14,18 @@
   --primary: #334155;
   --secondary: #2C2D2E;
 
-  --link: #107fd2;
-
   --background-card: #FFF;
   --background-badge: #E6EEF5;
   --background-body: #F2F5F9;
 
   --shadow-image: rgba(17, 17, 26, 0.05) 0px 1px 0px, rgba(17, 17, 26, 0.1) 0px 0px 8px;
   --shadow-card: rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.06) 0px 1px 2px 0px;
+  --color-primary: #123456;
+  --color-secondary: #FFF;
+}
+
+.cor-zul {
+  color: #107fd2;
 }
 
 body {
@@ -54,6 +58,24 @@ body {
   font-size: 28px;
   font-weight: 600;
 }
+
+.tweet-button {
+  background-color: rgb(77, 77, 77);
+  color: white;
+  border: none;
+  padding: .2rem .8rem;
+  border-radius: 50px;
+  font-weight: 550;
+  font-size: 14px;
+  cursor: pointer;
+  margin-left: .5rem;
+  height: 2.3rem;
+}
+
+.mudacor a{
+color: #FFF !important;
+}
+
 
 @media(max-width: 1200px) {
   .app {
